@@ -1,4 +1,4 @@
-flowq = require '../flowq'
+flowq = require '../'
 
 describe 'Flow', ->
 

@@ -1,6 +1,6 @@
 {
   "name": "flowq",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple flow library for node.js.",
   "scripts": {
     "test": "mocha"
